@@ -1,5 +1,5 @@
 <b>👋 Bienvenue sur mon profil GitHub ! </b>
-<br>Je suis un passionné de l'informatique basé à Paris, en France. </br>
+<br>Je suis un passionné de l'informatique basé à Paris, France. </br>
 <br>Actuellement, je suis étudiant à <a href="https://www.sorbonne-universite.fr/"><strong>Sorbonne Université</strong></a> en L3</a> (2024/2025), où je termine ma licence en informatique.</br>
 <br>Mon parcours académique m'a permis d'acquérir des compétences solides dans divers domaines de l'informatique, et je suis toujours avide d'apprendre et de contribuer à des projets innovants. </br>
 <br>N'hésitez pas à explorer mes travaux et à me contacter pour toute collaboration ou discussion intéressante !</br>
