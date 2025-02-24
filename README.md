@@ -7,3 +7,7 @@
 <a href="https://www.linkedin.com/in/aeb-" rel="nofollow">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" style="max-width: 100%;"
 data-canonical-src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&amp;style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;"></a>
+
+<a href="mailto:alielboukili75@gmail.com?subject=Contact%20from%20GitHub" rel="nofollow">
+  <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
