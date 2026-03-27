@@ -6,14 +6,14 @@
 (<a href="https://sciences.sorbonne-universite.fr/formation-sciences/offre-de-formation/masters/master-informatique/parcours-res">Réseaux : Internet, Cybersécurité, Cloud et Automatisation</a>) à 
 <a href="https://www.sorbonne-universite.fr/"><strong>Sorbonne Université</strong></a> — année 2025/2026.</br>
 
-<br>🚀 Je suis activement à la recherche d’un <strong>stage d'été (3 mois)</strong> débouchant sur une <strong>alternance en Master 2</strong> pour l'année 2026/2027, au sein des parcours :</br>
+<br>🚀 Je suis activement à la recherche d’un <strong>stage d'été (3 mois)</strong> débouchant sur une <strong>alternance en Master 2 (2026/2027)</strong>, au sein des parcours :</br>
 
-- <a href="https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-res-alt-sec"><strong>RES-ALT-SEC</strong></a> (Sécurité des réseaux)
-- <strong>RES-ALT-SOFT</strong> (Softwarisation / SDN / NFV)
+- <a href="https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-res-alt-sec"><strong>RES-ALT-SEC</strong></a> (Sécurité)
+- <a href="https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-res-alt-soft"><strong>RES-ALT-SOFT</strong></a> (Softwarisation / SDN / NFV)
 
-<br><b>📅 Mon rythme d'alternance :</b></br>
-- <b>En entreprise :</b> Lundis, Mardis et Mercredis (hors 3ème semaine du mois).
-- <b>En formation :</b> Jeudis, Vendredis et la 3ème semaine complète de chaque mois.
+<br><b>📅 Mon rythme d'alternance prévisionnel :</b></br>
+- <b>En entreprise :</b> Lundis, mardis et mercredis (hors 3ème semaine du mois).
+- <b>En formation :</b> Jeudis, vendredis et la 3ème semaine complète de chaque mois.
 - <b>Immersion totale :</b> Les 5 derniers mois de l'année se déroulent 100% en entreprise.
 
 <br>Mes domaines d'intérêt incluent la cybersécurité, l'automatisation des infrastructures, le Cloud et les systèmes distribués. N’hésitez pas à explorer mes dépôts ou me contacter pour discuter d'une opportunité !</br>
